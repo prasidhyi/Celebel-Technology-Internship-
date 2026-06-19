@@ -1,0 +1,251 @@
+order_id,customer_name,product,category,price,quantity,order_date,payment_method,region,total_amount
+1103,Priya Sharma,Wireless Mouse,Electronics,211.29,5.0,2024-04-12,UPI,South,1056.45
+1246,Pooja Kapoor,Action Figure,Toys,120.14,5.0,2024-12-07,UPI,North,600.7
+1195,Rohan Verma,Denim Jacket,Clothing,12.36,2.0,2024-11-30,Credit Card,South,24.72
+1118,Vikram Patel,Resistance Bands,Sports,48.49,1.0,2024-03-10,Debit Card,North,48.49
+1191,Karan Iyer,Shampoo,Beauty,65.86,2.0,2024-02-28,Credit Card,West,131.72
+1220,Suresh Iyer,Blender,Home & Kitchen,58.62,4.0,2024-11-10,UPI,North,234.48
+1079,Divya Sharma,Sci-Fi Novel,Books,34.87,3.0,2024-09-07,UPI,North,104.60999999999999
+1237,Priya Patel,Resistance Bands,Sports,34.13,4.0,2024-03-05,Credit Card,North,136.52
+1128,Arjun Nair,Non-stick Pan,Home & Kitchen,170.45,4.0,2024-10-09,Credit Card,West,681.8
+1108,Sneha Singh,Dumbbell Set,Sports,133.65,3.0,2024-03-01,UPI,West,400.95000000000005
+1028,Pooja Gupta,Non-stick Pan,Home & Kitchen,239.85,3.0,2024-10-12,Credit Card,North,719.55
+1123,Ritu Verma,Football,Sports,165.26,3.0,2024-12-25,Credit Card,South,495.78
+1040,Anjali Sharma,Building Blocks,Toys,151.85,4.0,2024-03-12,Debit Card,South,607.4
+1086,Suresh Iyer,Kids Picture Book,Books,63.45,2.0,2024-01-21,Cash on Delivery,West,126.9
+1063,Karan Patel,Shampoo,Beauty,107.14,4.0,2024-05-14,UPI,South,428.56
+1091,Arjun Gupta,Wireless Mouse,Electronics,221.62,3.0,2024-03-04,Debit Card,North,664.86
+1005,Ritu Gupta,Wool Sweater,Clothing,91.86,1.0,2024-11-21,Cash on Delivery,West,91.86
+1052,Rohan Kapoor,Sci-Fi Novel,Books,205.06,5.0,2024-01-25,UPI,East,1025.3
+1124,Vikram Sharma,Board Game,Toys,188.75,4.0,2024-02-15,Debit Card,North,755.0
+1187,Sanjay Verma,Puzzle 500pc,Toys,95.96,5.0,2024-10-04,Credit Card,West,479.79999999999995
+1224,Meera Iyer,Yoga Mat,Sports,38.81,3.0,2024-04-08,UPI,West,116.43
+1141,Sneha Patel,Puzzle 500pc,Toys,84.01,1.0,2024-11-15,Credit Card,South,84.01
+1117,Rohan Sharma,Football,Sports,135.2,3.0,2024-05-25,Net Banking,West,405.59999999999997
+1045,Kavya Patel,Cookbook,Books,124.7,3.0,2024-12-14,UPI,South,374.1
+1039,Rohan Sharma,Earbuds,Electronics,64.04,1.0,2024-10-30,Net Banking,North,64.04
+1250,Karan Kapoor,Coffee Maker,Home & Kitchen,154.57,3.0,2024-11-20,Credit Card,West,463.71
+1035,Anita Mehta,Dumbbell Set,Sports,131.19,5.0,2024-12-07,Credit Card,North,655.95
+1013,Divya Sharma,Sunscreen SPF50,Unknown,120.42,5.0,2024-10-06,UPI,East,602.1
+1074,Kavya Singh,RC Car,Toys,194.71,2.0,2024-05-01,Cash on Delivery,West,389.42
+1107,Neha Mehta,Board Game,Toys,177.82,4.0,2024-08-21,Debit Card,North,711.28
+1095,Rohan Mehta,Football,Sports,121.17,1.0,2024-02-18,Net Banking,South,121.17
+1115,Pooja Reddy,Cookbook,Books,211.9,2.0,2024-10-07,Cash on Delivery,West,423.8
+1059,Manoj Nair,Earbuds,Electronics,17.73,3.0,2024-02-06,Net Banking,West,53.19
+1196,Sanjay Reddy,Sci-Fi Novel,Books,118.93,5.0,2024-07-13,Cash on Delivery,North,594.6500000000001
+1174,Meera Reddy,Action Figure,Toys,217.07,5.0,2024-02-06,Credit Card,North,1085.35
+1234,Amit Gupta,Earbuds,Electronics,206.67,3.0,2024-10-26,Credit Card,North,620.01
+1233,Suresh Patel,Wireless Mouse,Electronics,164.8,4.0,2024-03-02,Credit Card,North,659.2
+1164,Amit Verma,Water Bottle,Sports,220.69,3.0,2024-08-14,Credit Card,South,662.0699999999999
+1096,Rahul Gupta,Bluetooth Speaker,Electronics,109.84,4.0,2024-08-19,Net Banking,South,439.36
+1231,Priya Patel,Cotton T-Shirt,Clothing,220.37,5.0,2024-02-26,Debit Card,East,1101.85
+1119,Vikram Verma,Water Bottle,Sports,114.81,3.0,2024-08-06,UPI,North,344.43
+1168,Ritu Verma,RC Car,Unknown,190.81,4.0,2024-06-02,Net Banking,East,763.24
+1133,Sneha Nair,Bluetooth Speaker,Electronics,222.21,5.0,2024-01-31,Cash on Delivery,South,1111.05
+1032,Kavya Singh,Resistance Bands,Sports,73.9,3.0,2024-09-22,Net Banking,West,221.70000000000002
+1019,Sanjay Verma,Mystery Novel,Books,175.6,3.0,2024-05-19,Debit Card,South,526.8
+1160,Sneha Nair,Puzzle 500pc,Toys,9.66,4.0,2024-09-21,Net Banking,East,38.64
+1172,Anjali Nair,Blender,Home & Kitchen,184.71,4.0,2024-05-18,UPI,East,738.84
+1189,Sneha Nair,Coffee Maker,Home & Kitchen,212.39,4.0,2024-05-30,Credit Card,South,849.56
+1020,Priya Patel,Resistance Bands,Sports,93.64,5.0,2024-02-13,Debit Card,West,468.2
+1185,Rahul Gupta,Non-stick Pan,Home & Kitchen,212.22,4.0,2024-07-16,UPI,North,848.88
+1131,Kavya Iyer,RC Car,Toys,125.81,4.0,2024-03-27,UPI,West,503.24
+1034,Suresh Mehta,Lipstick Set,Beauty,208.3,3.0,2024-04-25,Debit Card,West,624.9000000000001
+1139,Karan Reddy,Cookbook,Books,224.76,2.0,2024-04-28,Net Banking,West,449.52
+1148,Vikram Gupta,Sci-Fi Novel,Books,55.72,5.0,2024-05-23,Debit Card,South,278.6
+1036,Ritu Verma,Face Serum,Beauty,111.6,5.0,2024-11-21,Credit Card,East,558.0
+1012,Divya Sharma,Wool Sweater,Clothing,117.43,3.0,2024-02-21,Debit Card,North,352.29
+1030,Amit Kapoor,Puzzle 500pc,Toys,86.23,3.0,2024-06-09,Debit Card,North,258.69
+1001,Anjali Sharma,Power Bank,Electronics,112.53,3.0,2024-09-11,Debit Card,North,337.59000000000003
+1171,Anjali Mehta,Cotton T-Shirt,Clothing,53.89,5.0,2024-11-29,Debit Card,North,269.45
+1089,Arjun Sharma,Earbuds,Electronics,43.03,5.0,2024-03-11,Credit Card,South,215.15
+1180,Karan Mehta,Water Bottle,Sports,73.14,3.0,2024-03-08,UPI,East,219.42000000000002
+1186,Anjali Patel,Bluetooth Speaker,Electronics,44.28,1.0,2024-08-01,UPI,East,44.28
+1068,Arjun Reddy,Sci-Fi Novel,Books,28.3,4.0,2024-01-31,UPI,West,113.2
+1029,Manoj Verma,Running Shoes,Unknown,125.22,3.0,2024-07-27,UPI,South,375.65999999999997
+1017,Suresh Patel,Sci-Fi Novel,Books,104.56,3.0,2024-03-01,Debit Card,North,313.68
+1239,Anjali Mehta,Running Shoes,Clothing,101.26,1.0,2024-12-22,Net Banking,West,101.26
+1241,Suresh Patel,USB-C Cable,Electronics,139.97,2.0,2024-09-16,UPI,North,279.94
+1048,Meera Kapoor,Action Figure,Toys,119.51,4.0,2024-01-07,Cash on Delivery,North,478.04
+1249,Neha Iyer,Water Bottle,Sports,83.5,2.0,2024-01-21,UPI,South,167.0
+1041,Amit Gupta,Sci-Fi Novel,Books,243.1,3.0,2024-02-22,Net Banking,North,729.3
+1092,Pooja Reddy,Building Blocks,Toys,245.11,3.0,2024-10-13,Debit Card,East,735.33
+1247,Sneha Patel,Coffee Maker,Home & Kitchen,148.51,3.0,2024-09-05,Credit Card,North,445.53
+1070,Anita Singh,Sci-Fi Novel,Books,236.78,1.0,2024-08-03,Credit Card,North,236.78
+1208,Sanjay Gupta,Wool Sweater,Clothing,88.88,4.0,2024-06-09,Debit Card,North,355.52
+1113,Suresh Kapoor,Wireless Mouse,Unknown,64.7,5.0,2024-08-20,UPI,East,323.5
+1159,Vikram Kapoor,Coffee Maker,Home & Kitchen,106.44,4.0,2024-01-29,Net Banking,North,425.76
+1183,Manoj Verma,Storage Box,Home & Kitchen,219.79,4.0,2024-12-25,Cash on Delivery,West,879.16
+1211,Anita Singh,Sci-Fi Novel,Books,36.69,5.0,2024-02-20,Debit Card,South,183.45
+1085,Aarav Verma,Storage Box,Home & Kitchen,13.86,1.0,2024-01-19,Net Banking,East,13.86
+1060,Suresh Reddy,Action Figure,Toys,244.99,2.0,2024-10-11,Cash on Delivery,East,489.98
+1094,Manoj Verma,Sunscreen SPF50,Beauty,164.06,3.0,2024-02-24,UPI,East,492.18
+1149,Anjali Verma,Cotton T-Shirt,Clothing,32.46,3.0,2024-01-01,Credit Card,East,97.38
+1155,Divya Nair,Lipstick Set,Beauty,144.46,2.0,2024-11-06,UPI,North,288.92
+1146,Priya Mehta,Non-stick Pan,Home & Kitchen,65.29,3.0,2024-06-15,Debit Card,East,195.87
+1100,Rahul Reddy,Blender,Home & Kitchen,110.7,3.0,2024-05-11,Net Banking,East,332.1
+1244,Divya Nair,USB-C Cable,Electronics,82.11,3.0,2024-09-03,Net Banking,North,246.32999999999998
+1015,Anjali Sharma,Cookbook,Books,105.09,5.0,2024-03-26,Net Banking,North,525.45
+1177,Manoj Reddy,Blender,Home & Kitchen,152.43,3.0,2024-06-19,Credit Card,North,457.29
+1175,Ritu Mehta,Sunscreen SPF50,Beauty,10.67,2.0,2024-05-17,Net Banking,East,21.34
+1022,Anita Sharma,Wool Sweater,Clothing,115.09,4.0,2024-02-05,Unknown,West,460.36
+1090,Rahul Reddy,Power Bank,Electronics,245.15,4.0,2024-01-20,Credit Card,East,980.6
+1057,Karan Iyer,Face Serum,Beauty,49.47,5.0,2024-04-01,Cash on Delivery,East,247.35
+1230,Suresh Verma,Coffee Maker,Home & Kitchen,188.46,4.0,2024-06-28,Debit Card,West,753.84
+1056,Amit Singh,Puzzle 500pc,Toys,82.91,5.0,2024-11-15,Cash on Delivery,West,414.54999999999995
+1121,Manoj Reddy,Self-Help Guide,Books,191.55,4.0,2024-09-20,Debit Card,West,766.2
+1054,Sneha Gupta,Yoga Mat,Sports,74.76,3.0,2024-02-12,UPI,North,224.28000000000003
+1182,Rohan Iyer,Wool Sweater,Unknown,126.4,5.0,2024-04-02,Credit Card,South,632.0
+1173,Meera Mehta,Power Bank,Electronics,184.13,3.0,2024-07-27,UPI,North,552.39
+1242,Pooja Nair,Face Serum,Beauty,125.81,2.0,2024-04-04,Debit Card,South,251.62
+1184,Rohan Mehta,LED Lamp,Home & Kitchen,22.6,3.0,2024-04-21,Debit Card,East,67.80000000000001
+1111,Sneha Iyer,Shampoo,Beauty,41.91,2.0,2024-11-27,Net Banking,North,83.82
+1043,Sneha Kapoor,Sci-Fi Novel,Books,147.37,3.0,2024-10-20,Credit Card,East,442.11
+1018,Pooja Singh,Wireless Mouse,Electronics,181.98,4.0,2024-02-28,Net Banking,East,727.92
+1006,Aarav Reddy,Building Blocks,Toys,119.35,3.0,2024-02-26,Cash on Delivery,East,358.04999999999995
+1192,Amit Iyer,Earbuds,Electronics,195.45,2.0,2024-06-28,UPI,East,390.9
+1120,Rahul Singh,Coffee Maker,Home & Kitchen,177.24,3.0,2024-12-24,Net Banking,East,531.72
+1049,Karan Patel,LED Lamp,Home & Kitchen,200.22,3.0,2024-07-12,Cash on Delivery,East,600.66
+1209,Kavya Singh,Building Blocks,Toys,168.54,1.0,2024-08-29,Debit Card,North,168.54
+1067,Kavya Reddy,Wool Sweater,Clothing,54.59,3.0,2024-11-10,Net Banking,North,163.77
+1071,Divya Sharma,Sunscreen SPF50,Beauty,46.97,1.0,2024-07-27,UPI,South,46.97
+1228,Sanjay Iyer,Coffee Maker,Home & Kitchen,118.0,1.0,2024-01-19,Debit Card,East,118.0
+1178,Rohan Patel,Coffee Maker,Home & Kitchen,101.56,4.0,2024-02-29,Debit Card,East,406.24
+1106,Ritu Gupta,Lipstick Set,Beauty,239.82,1.0,2024-10-08,UPI,South,239.82
+1226,Kavya Singh,Shampoo,Beauty,127.69,2.0,2024-08-26,Credit Card,West,255.38
+1055,Priya Gupta,Yoga Mat,Sports,47.79,5.0,2024-08-03,UPI,East,238.95
+1188,Rohan Iyer,Bluetooth Speaker,Electronics,235.68,3.0,2024-11-23,Cash on Delivery,North,707.04
+1099,Kavya Nair,Resistance Bands,Sports,163.75,3.0,2024-04-25,Debit Card,West,491.25
+1215,Sanjay Verma,Water Bottle,Sports,154.51,2.0,2024-12-07,Net Banking,West,309.02
+1165,Anita Patel,Building Blocks,Toys,150.67,1.0,2024-08-30,Net Banking,West,150.67
+1109,Suresh Kapoor,Kids Picture Book,Books,141.21,2.0,2024-12-27,Cash on Delivery,North,282.42
+1153,Aarav Patel,Sci-Fi Novel,Unknown,41.86,4.0,2024-02-20,Credit Card,West,167.44
+1098,Karan Sharma,Blender,Home & Kitchen,121.16,1.0,2024-07-27,Unknown,East,121.16
+1194,Sneha Patel,USB-C Cable,Electronics,238.54,1.0,2024-07-21,Net Banking,North,238.54
+1083,Priya Nair,Power Bank,Electronics,164.28,4.0,2024-11-23,Net Banking,North,657.12
+1218,Meera Verma,Power Bank,Electronics,192.34,2.0,2024-06-24,Cash on Delivery,South,384.68
+1212,Karan Mehta,Wool Sweater,Clothing,228.03,4.0,2024-07-16,UPI,East,912.12
+1082,Suresh Sharma,Earbuds,Electronics,74.56,4.0,2024-02-08,Cash on Delivery,West,298.24
+1125,Ritu Kapoor,Sunscreen SPF50,Beauty,124.98,5.0,2024-06-18,Debit Card,West,624.9
+1169,Amit Gupta,Mystery Novel,Books,200.03,2.0,2024-05-28,Net Banking,North,400.06
+1170,Kavya Gupta,Action Figure,Toys,101.78,1.0,2024-02-24,Debit Card,West,101.78
+1014,Vikram Nair,Shampoo,Beauty,142.01,4.0,2024-01-12,Debit Card,South,568.04
+1229,Suresh Mehta,Puzzle 500pc,Toys,197.93,4.0,2024-10-26,Unknown,South,791.72
+1240,Kavya Mehta,Face Serum,Beauty,125.81,3.0,2024-04-15,Debit Card,East,377.43
+1046,Divya Verma,Kids Picture Book,Books,11.09,3.0,2024-08-19,Net Banking,North,33.269999999999996
+1151,Karan Mehta,Lipstick Set,Beauty,84.01,3.0,2024-06-24,Net Banking,East,252.03000000000003
+1104,Arjun Mehta,Face Serum,Beauty,81.9,1.0,2024-01-06,UPI,West,81.9
+1037,Amit Gupta,Action Figure,Toys,223.89,1.0,2024-04-25,Credit Card,West,223.89
+1217,Manoj Patel,Puzzle 500pc,Toys,228.6,5.0,2024-11-03,Net Banking,West,1143.0
+1243,Divya Verma,Wool Sweater,Clothing,207.52,2.0,2024-05-20,Cash on Delivery,South,415.04
+1200,Aarav Reddy,Shampoo,Beauty,161.56,4.0,2024-12-28,Debit Card,South,646.24
+1162,Sneha Singh,Building Blocks,Toys,174.81,1.0,2024-07-04,Credit Card,West,174.81
+1076,Sanjay Singh,Mystery Novel,Books,234.35,3.0,2024-05-19,Credit Card,East,703.05
+1225,Suresh Reddy,Wool Sweater,Clothing,32.4,4.0,2024-03-05,Credit Card,South,129.6
+1206,Neha Singh,Denim Jacket,Clothing,237.15,4.0,2024-09-26,Debit Card,South,948.6
+1207,Amit Singh,Self-Help Guide,Books,181.35,3.0,2024-11-27,Debit Card,South,544.05
+1003,Rahul Gupta,Lipstick Set,Beauty,232.06,4.0,2024-10-27,UPI,South,928.24
+1202,Vikram Gupta,Lipstick Set,Beauty,230.85,4.0,2024-09-22,Cash on Delivery,South,923.4
+1007,Vikram Mehta,Sci-Fi Novel,Books,242.04,3.0,2024-05-15,Credit Card,South,726.12
+1219,Anita Patel,Dumbbell Set,Sports,162.98,4.0,2024-04-04,UPI,East,651.92
+1203,Pooja Nair,Storage Box,Home & Kitchen,151.93,1.0,2024-12-12,UPI,South,151.93
+1078,Ritu Gupta,Water Bottle,Sports,180.85,5.0,2024-02-13,Debit Card,West,904.25
+1114,Priya Singh,Storage Box,Home & Kitchen,191.91,4.0,2024-05-13,Cash on Delivery,East,767.64
+1066,Amit Singh,Sunscreen SPF50,Beauty,202.08,3.0,2024-08-19,Credit Card,South,606.24
+1152,Manoj Gupta,Coffee Maker,Home & Kitchen,86.03,2.0,2024-01-18,UPI,South,172.06
+1161,Anjali Verma,Storage Box,Home & Kitchen,82.7,1.0,2024-08-04,Debit Card,North,82.7
+1047,Ritu Verma,Building Blocks,Toys,107.68,1.0,2024-08-05,Credit Card,West,107.68
+1075,Neha Reddy,Board Game,Toys,71.28,4.0,2024-04-24,Debit Card,North,285.12
+1093,Manoj Reddy,Self-Help Guide,Books,40.56,2.0,2024-04-19,UPI,East,81.12
+1190,Anjali Reddy,Denim Jacket,Clothing,179.01,1.0,2024-11-15,Cash on Delivery,South,179.01
+1088,Amit Reddy,Lipstick Set,Beauty,35.61,4.0,2024-09-28,UPI,East,142.44
+1144,Rohan Gupta,Face Serum,Beauty,142.73,2.0,2024-08-26,Unknown,West,285.46
+1181,Aarav Sharma,USB-C Cable,Electronics,68.56,1.0,2024-06-24,Credit Card,West,68.56
+1011,Meera Singh,Building Blocks,Toys,6.8,4.0,2024-08-30,UPI,East,27.2
+1163,Ritu Reddy,Cotton T-Shirt,Clothing,9.06,3.0,2024-08-01,Debit Card,North,27.18
+1033,Karan Iyer,Non-stick Pan,Home & Kitchen,229.42,5.0,2024-01-14,Credit Card,East,1147.1
+1137,Aarav Patel,Wireless Mouse,Electronics,54.48,3.0,2024-06-14,Net Banking,East,163.44
+1167,Neha Singh,Resistance Bands,Sports,140.62,3.0,2024-09-04,UPI,East,421.86
+1084,Meera Kapoor,Denim Jacket,Clothing,40.04,5.0,2024-03-13,Credit Card,West,200.2
+1004,Priya Kapoor,Lipstick Set,Beauty,140.87,5.0,2024-10-29,Debit Card,East,704.35
+1166,Karan Kapoor,Cotton T-Shirt,Clothing,150.95,1.0,2024-11-14,Net Banking,South,150.95
+1156,Sneha Kapoor,Summer Dress,Clothing,156.68,3.0,2024-10-09,Net Banking,West,470.04
+1101,Manoj Kapoor,Board Game,Unknown,222.17,1.0,2024-07-02,Cash on Delivery,East,222.17
+1126,Priya Iyer,Running Shoes,Clothing,199.45,4.0,2024-07-21,UPI,West,797.8
+1024,Arjun Nair,Hair Dryer,Unknown,190.84,3.0,2024-06-06,Debit Card,East,572.52
+1127,Aarav Sharma,Summer Dress,Clothing,206.53,2.0,2024-05-16,Net Banking,North,413.06
+1010,Anita Iyer,Hair Dryer,Beauty,99.93,5.0,2024-09-06,Cash on Delivery,North,499.65000000000003
+1222,Neha Gupta,Resistance Bands,Sports,33.35,1.0,2024-12-30,Debit Card,North,33.35
+1105,Sneha Iyer,Water Bottle,Sports,96.2,4.0,2024-08-07,Cash on Delivery,North,384.8
+1154,Aarav Verma,Wireless Mouse,Electronics,51.14,5.0,2024-02-10,Cash on Delivery,East,255.7
+1198,Priya Mehta,Action Figure,Toys,88.64,3.0,2024-05-04,Credit Card,West,265.92
+1136,Pooja Patel,Bluetooth Speaker,Electronics,229.25,2.0,2024-02-19,Credit Card,South,458.5
+1112,Pooja Mehta,Dumbbell Set,Sports,76.55,1.0,2024-08-02,Cash on Delivery,South,76.55
+1245,Anjali Singh,Non-stick Pan,Home & Kitchen,57.01,3.0,2024-08-23,Cash on Delivery,North,171.03
+1065,Vikram Gupta,Water Bottle,Sports,122.82,4.0,2024-07-14,Net Banking,West,491.28
+1016,Kavya Verma,Puzzle 500pc,Toys,76.93,3.0,2024-07-22,Unknown,West,230.79000000000002
+1042,Kavya Mehta,Denim Jacket,Clothing,37.3,1.0,2024-02-14,Debit Card,East,37.3
+1214,Kavya Reddy,Action Figure,Unknown,102.92,3.0,2024-01-09,UPI,South,308.76
+1110,Priya Kapoor,Shampoo,Beauty,101.18,2.0,2024-10-02,Credit Card,South,202.36
+1081,Meera Reddy,Bluetooth Speaker,Electronics,230.02,4.0,2024-02-10,Debit Card,West,920.08
+1053,Vikram Mehta,Non-stick Pan,Home & Kitchen,207.04,2.0,2024-02-22,Net Banking,West,414.08
+1027,Divya Gupta,Building Blocks,Toys,231.65,5.0,2024-05-06,Cash on Delivery,East,1158.25
+1077,Meera Nair,Running Shoes,Clothing,234.35,2.0,2024-06-23,Credit Card,South,468.7
+1044,Rohan Reddy,Power Bank,Electronics,37.11,3.0,2024-12-04,Credit Card,South,111.33
+1025,Priya Singh,USB-C Cable,Electronics,164.21,4.0,2024-05-31,Cash on Delivery,North,656.84
+1197,Arjun Patel,Action Figure,Toys,205.49,5.0,2024-06-20,Net Banking,North,1027.45
+1221,Meera Verma,Non-stick Pan,Home & Kitchen,87.35,3.0,2024-11-02,Debit Card,North,262.04999999999995
+1050,Sanjay Verma,Kids Picture Book,Unknown,152.76,2.0,2024-05-16,Net Banking,South,305.52
+1150,Sanjay Reddy,Running Shoes,Clothing,86.61,3.0,2024-10-11,UPI,West,259.83
+1199,Meera Kapoor,Resistance Bands,Sports,188.96,4.0,2024-03-18,Debit Card,West,755.84
+1132,Anita Singh,Lipstick Set,Beauty,214.07,5.0,2024-08-03,UPI,South,1070.35
+1248,Sanjay Reddy,Mystery Novel,Books,55.71,1.0,2024-03-05,Credit Card,North,55.71
+1031,Rohan Patel,LED Lamp,Unknown,224.56,3.0,2024-07-21,Debit Card,North,673.6800000000001
+1201,Rohan Gupta,Mystery Novel,Books,117.27,4.0,2024-02-25,Cash on Delivery,East,469.08
+1122,Rohan Reddy,Resistance Bands,Sports,125.81,1.0,2024-09-24,Net Banking,South,125.81
+1176,Vikram Patel,Kids Picture Book,Books,101.68,4.0,2024-08-10,UPI,East,406.72
+1116,Divya Verma,Blender,Home & Kitchen,227.84,2.0,2024-11-06,Unknown,South,455.68
+1227,Priya Nair,Earbuds,Electronics,131.53,1.0,2024-09-22,Credit Card,West,131.53
+1009,Arjun Sharma,Self-Help Guide,Books,209.01,4.0,2024-04-24,Cash on Delivery,West,836.04
+1210,Meera Mehta,Cookbook,Books,53.46,1.0,2024-11-10,Cash on Delivery,North,53.46
+1061,Amit Patel,Resistance Bands,Sports,37.97,5.0,2024-07-06,Net Banking,West,189.85
+1129,Aarav Mehta,Board Game,Toys,201.21,2.0,2024-03-26,Credit Card,East,402.42
+1002,Meera Reddy,Hair Dryer,Beauty,191.48,4.0,2024-02-16,Net Banking,South,765.92
+1058,Neha Mehta,Self-Help Guide,Books,17.07,1.0,2024-07-10,Net Banking,North,17.07
+1023,Vikram Kapoor,USB-C Cable,Electronics,54.58,4.0,2024-07-30,UPI,North,218.32
+1062,Rahul Iyer,RC Car,Toys,99.35,4.0,2024-04-07,Credit Card,North,397.4
+1064,Kavya Iyer,Puzzle 500pc,Toys,97.97,1.0,2024-04-18,Cash on Delivery,West,97.97
+1008,Pooja Patel,Building Blocks,Toys,36.83,4.0,2024-03-23,UPI,East,147.32
+1142,Meera Nair,USB-C Cable,Electronics,199.03,3.0,2024-06-09,Net Banking,South,597.09
+1087,Kavya Kapoor,Kids Picture Book,Books,194.17,5.0,2024-11-01,UPI,North,970.8499999999999
+1097,Divya Nair,Running Shoes,Clothing,58.32,5.0,2024-04-25,Net Banking,North,291.6
+1223,Rahul Kapoor,Mystery Novel,Books,108.59,3.0,2024-12-06,Debit Card,West,325.77
+1232,Aarav Sharma,Cotton T-Shirt,Clothing,17.94,2.0,2024-06-08,Net Banking,West,35.88
+1216,Pooja Gupta,Coffee Maker,Home & Kitchen,138.41,4.0,2024-08-18,Net Banking,South,553.64
+1069,Suresh Gupta,Building Blocks,Toys,239.93,1.0,2024-08-04,UPI,West,239.93
+1051,Pooja Reddy,Power Bank,Electronics,217.54,2.0,2024-03-31,Debit Card,North,435.08
+1143,Suresh Nair,Kids Picture Book,Books,170.28,2.0,2024-11-25,Debit Card,West,340.56
+1158,Vikram Reddy,Bluetooth Speaker,Electronics,204.22,1.0,2024-10-18,Credit Card,East,204.22
+1157,Pooja Mehta,Coffee Maker,Home & Kitchen,230.1,3.0,2024-08-08,Net Banking,West,690.3
+1235,Anita Patel,Coffee Maker,Home & Kitchen,185.76,3.0,2024-10-01,Unknown,East,557.28
+1140,Divya Nair,Blender,Home & Kitchen,186.87,2.0,2024-08-26,Credit Card,South,373.74
+1213,Anita Patel,Action Figure,Toys,154.46,4.0,2024-08-16,Credit Card,South,617.84
+1147,Rohan Nair,Puzzle 500pc,Toys,17.49,5.0,2024-05-20,Cash on Delivery,North,87.44999999999999
+1102,Suresh Patel,Wool Sweater,Clothing,82.04,3.0,2024-06-29,Credit Card,North,246.12
+1021,Anita Singh,LED Lamp,Home & Kitchen,176.43,3.0,2024-12-19,Debit Card,West,529.29
+1179,Karan Verma,Bluetooth Speaker,Electronics,238.95,4.0,2024-02-06,UPI,West,955.8
+1026,Rohan Nair,Running Shoes,Unknown,85.82,4.0,2024-02-07,Credit Card,East,343.28
+1135,Ritu Kapoor,Face Serum,Beauty,145.84,1.0,2024-09-12,Cash on Delivery,East,145.84
+1238,Ritu Kapoor,Earbuds,Electronics,102.63,4.0,2024-02-20,Net Banking,East,410.52
+1072,Meera Reddy,Football,Sports,125.81,5.0,2024-06-28,Debit Card,East,629.05
+1205,Ritu Gupta,LED Lamp,Home & Kitchen,188.66,2.0,2024-07-12,Cash on Delivery,East,377.32
+1130,Amit Iyer,Summer Dress,Clothing,6.1,5.0,2024-09-04,UPI,North,30.5
+1145,Aarav Mehta,RC Car,Toys,111.08,3.0,2024-12-16,Cash on Delivery,North,333.24
+1193,Rohan Patel,Blender,Home & Kitchen,111.47,2.0,2024-02-15,Credit Card,West,222.94
+1080,Anita Mehta,USB-C Cable,Electronics,207.22,3.0,2024-06-16,Unknown,South,621.66
+1134,Ritu Nair,Sunscreen SPF50,Beauty,202.82,3.0,2024-04-18,Cash on Delivery,South,608.46
+1204,Suresh Reddy,Face Serum,Beauty,171.13,5.0,2024-01-15,Net Banking,South,855.65
+1138,Ritu Mehta,Cookbook,Books,107.99,5.0,2024-10-01,UPI,East,539.9499999999999
+1073,Rohan Singh,Earbuds,Electronics,34.33,4.0,2024-02-02,UPI,East,137.32
+1236,Neha Gupta,Sunscreen SPF50,Beauty,118.85,2.0,2024-03-21,Cash on Delivery,North,237.7
+1038,Priya Singh,Storage Box,Home & Kitchen,96.55,5.0,2024-09-29,Debit Card,South,482.75
