@@ -39,7 +39,7 @@ The objective of this assignment is to practice SQL concepts by creating a relat
 |07_section_D.sql|Join queries|
 |08_section_E.sql|CASE and Transaction queries|
 |answers.md|Theory answers|
-|screenshots|Query output screenshots|
+|outputs|Query output screenshots|
 
 ## Author
 
