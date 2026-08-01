@@ -1,0 +1,5 @@
+customer_id,customer_name,city,email,status
+103,Charlie,Bangalore,charlie@gmail.com,Active
+105,Emma,Delhi,emma_new@gmail.com,Active
+108,Harry,Kolkata,harry@gmail.com,Active
+109,Isha,Ahmedabad,isha@gmail.com,Inactive

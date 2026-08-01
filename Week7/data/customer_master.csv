@@ -1,0 +1,9 @@
+customer_id,customer_name,city,email,status
+101,Alice,Delhi,alice@gmail.com,Active
+102,Bob,Mumbai,bob@gmail.com,Active
+103,Charlie,Pune,charlie@gmail.com,Inactive
+104,David,Jaipur,david@gmail.com,Active
+105,Emma,Delhi,emma@gmail.com,Active
+106,Frank,Hyderabad,,Active
+107,Grace,Chennai,grace@gmail.com,Active
+107,Grace,Chennai,grace@gmail.com,Active
