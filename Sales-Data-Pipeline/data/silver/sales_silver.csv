@@ -1,0 +1,4 @@
+order_id,customer_id,product,amount,name,email,city,order_category
+101,1,Laptop,70000.0,Prasidhyi,prasidhyi@gmail.com,Dehradun,High Value
+102,2,Phone,30000.0,Rahul,rahul@gmail.com,Delhi,Medium Value
+103,3,Tablet,0.0,Ananya,unknown@gmail.com,Mumbai,Low Value
